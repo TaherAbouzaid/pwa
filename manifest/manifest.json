@@ -1,0 +1,27 @@
+{
+  "name": "Front-app",
+  "short_name": "front",
+  "theme_color": "#00ff00",
+  "background_color": "#ffffff",
+  "display": "fullscreen",
+  "orientation": "any",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/manifest/icons/Car-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/manifest/icons/Car-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/manifest/icons/Car-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
